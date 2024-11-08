@@ -1,0 +1,144 @@
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.exe
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.deps.json
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.runtimeconfig.json
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.dll
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.pdb
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.vbproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form1.resources
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form2.resources
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form3.resources
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Resources.resources
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.vbproj.GenerateResource.cache
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.AssemblyInfo.vb
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.dll
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\refint\Barangay San Jose PMS.dll
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.pdb
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.genruntimeconfig.cache
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\ref\Barangay San Jose PMS.dll
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form4.resources
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form5.resources
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form6.resources
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form7.resources
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form8.resources
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form9.resources
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form10.resources
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form11.resources
+C:\Users\Acer\Desktop\VISUAL STUDIO\Barangay San Jose PMS\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form12.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\refint\Barangay San Jose PMS.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.pdb
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.exe
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.deps.json
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.runtimeconfig.json
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.pdb
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form1.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form10.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form11.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form12.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form2.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form3.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form4.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form5.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form6.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form7.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form8.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form9.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Resources.resources
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.vbproj.GenerateResource.cache
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.AssemblyInfoInputs.cache
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.AssemblyInfo.vb
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.vbproj.CoreCompileInputs.cache
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.genruntimeconfig.cache
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\ref\Barangay San Jose PMS.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.vbproj.AssemblyReference.cache
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\BCrypt.Net-Next.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay.F6E2B7E7.Up2Date
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DirectShowLib.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPCtlUruNet.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPCtlXUru.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPDevNET.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPEngNET.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPGuiNET.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPShrNET.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPVerNET.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPUruNet.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPXUru.dll
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPCtlUruNet.xml
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPCtlXUru.xml
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPUruNet.xml
+C:\Users\Kyle\Desktop\payroll  barangay\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPXUru.xml
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.vbproj.AssemblyReference.cache
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form1.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form10.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form11.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form12.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form2.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form3.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form4.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form5.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form6.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form7.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form8.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Form9.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay_San_Jose_PMS.Resources.resources
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.vbproj.GenerateResource.cache
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.AssemblyInfoInputs.cache
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.AssemblyInfo.vb
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.vbproj.CoreCompileInputs.cache
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.exe
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.deps.json
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.runtimeconfig.json
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Barangay San Jose PMS.pdb
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\BCrypt.Net-Next.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DirectShowLib.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.vbproj.CopyComplete
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\refint\Barangay San Jose PMS.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.pdb
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\Barangay San Jose PMS.genruntimeconfig.cache
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\obj\Debug\net6.0-windows\ref\Barangay San Jose PMS.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPCtlXTypeLibNET.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPCtlXWrapperNET.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPDevNET.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPEngNET.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPGuiNET.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPShrNET.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPShrXTypeLibNET.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\DPFPVerNET.dll
+C:\Users\Jomari\source\repos\Barangay San Jose PMS\Barangay San Jose PMS\bin\Debug\net6.0-windows\MySql.Data.DLL
